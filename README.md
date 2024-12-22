@@ -1,2 +1,2 @@
 # mlproject
-"A collection of data analysis projects using techniques like data cleaning, visualization, and machine learning. These projects showcase real-world problem-solving and data-driven insights through various tools and algorithms."
+"This machine learning project predicts crop yields based on factors like weather, soil quality, and historical data. It utilizes regression models to analyze and forecast agricultural productivity, helping farmers optimize resources and improve crop management."
